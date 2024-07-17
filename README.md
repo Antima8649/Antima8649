@@ -30,10 +30,10 @@
   ensuring optimal performance and scalability of applications. <br />
   <br />
   <b>API Testing-</b> Skilled in API testing using tools like Postman and
-  Swagger, ensuring the seamless integration and functionality of APIs. <br />
+  Swagger ensures the seamless integration and functionality of APIs. <br />
   <br />
   <b>API Automation with Cypress-</b> Well-versed in API automation testing
-  using Cypress, providing efficient and reliable automated testing solutions.
+  using Cypress to provide efficient and reliable automated testing solutions.
   <br />
   <br />
   <b>Load Testing with JMeter-</b> Successfully conducted API load testing using
@@ -45,11 +45,11 @@
 <p align="left">
   Here are some of the technologies and skills I possess:-<br />
   <br />
-  <b>Testing Tools-</b> Jira, Azure, Asana, Trello <br />
+  <b>Testing Tools-</b> Jira, Azure, Asana, Trello, PMS (Project Management Service)<br />
   <br />
   <b>API Automation Tools-</b> Cypress Framework<br />
   <br />
-  <b>Performance Tool-</b> Jmeter <br />
+  <b>Performance Tool-</b> Jmeter GUI and Non-GUI mode, Load Focus (Script Recorder)<br />
   <br />
   <b>API Testing Tool-</b> Postman, Swagger<br />
   <br />
@@ -57,7 +57,7 @@
   <br />
   <b>Database-</b> MongoDB, Non-SQL booster<br />
   <br />
-  <b>Others-</b> Confluence, Burp Suite, Gennymotion, Nu checker,
+  <b>Others-</b> Confluence, Burp Suite, Gennymotion, Nu checker, CSS Selector
   TestCase_Studio (Manual test case recorder) etc.
   <br />
 </p>
@@ -74,15 +74,15 @@
   1) Manual Testing
   - Requirement understanding. <br />
   - Estimation of testing time as milestone delivery. <br />
-  - Created test cases for Admin, Merchant web, Cutsomer & Merchant mobile plateform in excel. <br />
+  - Created test cases for Admin, Merchant web, Customer & Merchant mobile platform in Excel. <br />
   - UI Testing (Comparison between UI & UX) <br />
-  - Sprint wise planning for Execution of Manual test cases. <br />
+  - Sprint-wise planning for Execution of Manual test cases. <br />
   - Report analysis.<br />
   <br />
   2) API Testing
   - Designed and executed API test cases for data integrity. <br />
   - Conducted integration testing to ensure seamless front-end and back-end communication. <br />
-  - Used Swagger and Postman for efficient API testing.<br />
+  - Swagger and Postman were used for efficient API testing.<br />
   <br />
   3) API Automation
   - Implemented Cypress automation for the API testing. <br />
@@ -120,7 +120,7 @@
   6) Report analysis.
   <br />
   <h3>ToothFairy (Dental App)🧚</h3> 
-  Played a crucial role as a Load and Performance Tester for ToothFairy, the UK's first dental video calling app.
+  Played a crucial role as a Load and Performance Tester for ToothFairy, the UK's first dental video-calling app.
   Conducted realistic load test scenarios using JMeter, monitored API response
   times, throughput, and error rates, and collaborated with development teams to
   enhance performance. Generated detailed API load test reports and maintained
