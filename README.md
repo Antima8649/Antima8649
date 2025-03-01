@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antima Tiwari</h1>
 <h3 align="center">
-  A seasoned software tester with 2+ years of proven expertise in manual
+  A seasoned software tester with 2.5+ years of proven expertise in manual
   testing for Web and Mobile-based applications. I specialize in ensuring the
   quality and reliability of software through meticulous test case preparation,
   execution and issue reporting using various testing tools.
