@@ -66,34 +66,45 @@
 <p align="left">
   Here are some details about the projects I've worked on:-<br />
   <br />
-  <h3>Snap-Eat (Food Application)🍽️</h3> 
-  Contributed to the Manual testing & Automation Testing efforts for Snap-Eat, a UK-based restaurant aggregator and
-  food delivery company, ensuring the application's functionality and user
-  experience. <br />
+  <h3> 1. Viperium Trading | Web (Trading) platform | Octal IT Solution LLP </h3> 
+Contributed to the Manual Testing efforts for Viperium Trading, a web-based trading application similar to OctaFX, enabling users to place Buy and Sell orders based on Ask and Bid prices. The platform supports direct and pending orders with limit settings, floating profit calculations, and a tier-based system where users are promoted upon achieving a 10% profit goal and demoted if losses reach 5%.  <br />
+  <br />
+  * End User: A end user refers to an individual or entity that engages in activities related to the foreign exchange (forex) market and purchase tokens from the website.
+  <br />
+* Admin: Admin will be able to manage all users and website related activities.
+  <br />
+* Sub- Admin: Sub admin will be able to perform the roles and responsibilities which will be assigned by the Admin.
+  <br />
   <h4>Responsibilities:</h4>
-  1) Manual Testing
-  - Requirement understanding. <br />
-  - Estimation of testing time as milestone delivery. <br />
-  - Created test cases for Admin, Merchant web, Customer & Merchant mobile platform in Excel. <br />
-  - UI Testing (Comparison between UI & UX) <br />
-  - Sprint-wise planning for Execution of Manual test cases. <br />
-  - Report analysis.<br />
+ 1) Conducted end-to-end testing of the Viperium trading platform,  including both admin and website interfaces, to ensure functionality performance, and security.
   <br />
-  2) API Testing
-  - Designed and executed API test cases for data integrity. <br />
-  - Conducted integration testing to ensure seamless front-end and back-end communication. <br />
-  - Swagger and Postman were used for efficient API testing.<br />
+ 2) Smoke & Regression Testing: Performed smoke and regression tests to validate critical features, identify bugs, and verify issue resolution across different builds.
   <br />
-  3) API Automation
-  - Implemented Cypress automation for the API testing. <br />
-  - Automated error regression testing for early issue detection.<br />
+ 3) Test Case Design & Execution: Created detailed test cases based on functional requirements and executed them to validate expected system behavior.
   <br />
-  4) Internal Project Manager
-  - Created <b>Gantt Chart</b> as per milestone. <br />
-  - Provided progress updates. <br />
-  - Led daily stand-up meetings following Agile methodologies to discuss and track work progress.
+ 4) Defect Tracking & Reporting: Documented defects, prioritized issues, and collaborated closely with developers to troubleshoot and resolve problems.
   <br />
-  <h3> CMB (File Management System for Loans) Testing📁</h3> 
+ 5) UI/UX Validation: Assessed user interface elements and user flows, providing feedback to enhance overall platform usability.
+  <br />
+ 6) Documentation & Reporting: Maintained comprehensive test reports, communicated findings to stakeholders, and contributed to release decision-making.
+  <br />
+    <h4>Key Achievement:</h4>
+  Recognized as <b>Employee of the Month </b> for contributions to testing and improving the Viperium project.
+    <br />
+   <h3> 2. Cupify – Matching App | Web & iOS Application | Octal IT Solution </h3> 
+  Conducted comprehensive end-to-end testing for a File Management System designed for
+  loan processing, ensuring adherence to Banking standards and robust data
+  security. The project involved efficient management of loan-related documents,
+  integration of mobile APIs for seamless access and updates, and optimization
+  of the loan processing workflow.<br />
+  <h4>Responsibilities:</h4>
+1) Conducted functional, Smoke, Sanity, Regression, and UI testing to ensure a seamless user experience. <br />
+2) Designed and executed test cases for matchmaking algorithms, chat functionality, solo and dual date, restaurant, bar and event booking, grey box concepts, ticket purchasing, subscription etc. <br />
+3) Reported and tracked bugs using Mantis. <br />
+4) Performed API testing using [Tool, e.g., Postman] to validate backend responses. <br />
+5) Collaborated with developers to resolve issues and improve application performance.
+  <br />
+  <h3> 3. CMB (File Management System for Loans) Testing📁 | Web & Android Application | Ethereal Softech Pvt. Ltd. </h3> 
   Conducted comprehensive end-to-end testing for a File Management System designed for
   loan processing, ensuring adherence to Banking standards and robust data
   security. The project involved efficient management of loan-related documents,
@@ -107,7 +118,7 @@
   5) Collaborated with development teams to troubleshoot and resolve API performance issues.<br />
   6) Report analysis.
   <br />
-  <h3>Switch (Fintech Application)🔄</h3> 
+  <h3> 4. Switch (Fintech Application)🔄</h3> 
   Contributed to the testing efforts for Switch, a collaborative platform enabling users to manage loans and distribute
   products among members. The application facilitates smooth communication and
   coordination, ensuring efficient loan processing and product distribution.
@@ -119,7 +130,7 @@
   5) Execution of automation test cases as per demand.<br />
   6) Report analysis.
   <br />
-  <h3>ToothFairy (Dental App)🧚</h3> 
+  <h3> 5. ToothFairy (Dental App)🧚</h3> 
   Played a crucial role as a Load and Performance Tester for ToothFairy, the UK's first dental video-calling app.
   Conducted realistic load test scenarios using JMeter, monitored API response
   times, throughput, and error rates, and collaborated with development teams to
@@ -132,17 +143,17 @@
   4) Collaborated with development teams to troubleshoot and resolve API performance issues<br />
   5) Maintained accurate documentation of test plans, cases, and processes
   <br />
-  <h3>GaanaP (Game Application)▶️</h3> 
+  <h3> 6. GaanaP (Game Application)▶️</h3> 
   Contributed to the manual testing efforts for GaanaP, a game application dedicated to entertaining Bollywood music fans
   through unique song quiz games, blogs, and content based on Hindi film
   music.<br />
   <br />
-  <h3>NewtonDesk (Android Application)📚</h3> Engaged in manual testing for
+  <h3> 7. NewtonDesk (Android Application)📚</h3> Engaged in manual testing for
   NewtonDesk, a global education platform (Edtech Startup) offering creative
   study notes for Science and engineering students. Ensured the quality of the
   Android application through meticulous testing and documentation.<br />
   <br />
-  <h3>KingLudo (Game Web Application)🕹️</h3> 
+  <h3> 8. KingLudo (Game Web Application)🕹️</h3> 
   Engaged in manual testing for KingLudo, a real-money gaming product owned by Divya Private Limited. Ensured
   the quality and reliability of the game web application..
   <br />
