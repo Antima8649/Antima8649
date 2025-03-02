@@ -45,15 +45,13 @@
 <p align="left">
   Here are some of the technologies and skills I possess:-<br />
   <br />
-  <b>Testing Tools-</b> Jira, Azure, Asana, Trello, PMS (Project Management Service)<br />
+  <b>Testing Tools-</b> Jira, Asana, Trello, PMS (Project Management Service)<br />
   <br />
   <b>API Automation Tools-</b> Cypress Framework<br />
   <br />
   <b>Performance Tool-</b> Jmeter GUI and Non-GUI mode, Load Focus (Script Recorder)<br />
   <br />
   <b>API Testing Tool-</b> Postman, Swagger<br />
-  <br />
-  <b>Language-</b> HTML, CSS, JS (Basics)<br />
   <br />
   <b>Database-</b> MongoDB, Non-SQL booster<br />
   <br />
@@ -118,7 +116,19 @@ Contributed to the Manual Testing efforts for Viperium Trading, a web-based trad
   5) Collaborated with development teams to troubleshoot and resolve API performance issues.<br />
   6) Report analysis.
   <br />
-  <h3> 4. Switch (Fintech Application)🔄</h3> 
+  <h3> 4. vLookup | Education platform (B2B) | Octal IT Solution LLP </h3> 
+  <h4>Responsibilities:</h4>
+1) Performed Smoke, Sanity and end-to-end testing of the platform’s admin, mentor, and mentee workflows.
+  <br />
+2) Designed and executed test cases covering role-based access control, user onboarding, mentor-mentee relationship, auto-termination, certification etc.
+  <br />
+3) Verified admin-controlled customization of registration fields, including enable/disable options, mandatory/optional settings, label changes, and placeholder configurations.
+  <br />
+4) Designed and executed test cases to validate dynamic form configurations across different user roles.
+  <br />
+5) Reported and tracked defects using Mantis and collaborated with developers for resolution.
+  <br />
+  <h3> 5. Switch (Fintech Application)🔄</h3> 
   Contributed to the testing efforts for Switch, a collaborative platform enabling users to manage loans and distribute
   products among members. The application facilitates smooth communication and
   coordination, ensuring efficient loan processing and product distribution.
@@ -130,7 +140,7 @@ Contributed to the Manual Testing efforts for Viperium Trading, a web-based trad
   5) Execution of automation test cases as per demand.<br />
   6) Report analysis.
   <br />
-  <h3> 5. ToothFairy (Dental App)🧚</h3> 
+  <h3> 6. ToothFairy (Dental App)🧚</h3> 
   Played a crucial role as a Load and Performance Tester for ToothFairy, the UK's first dental video-calling app.
   Conducted realistic load test scenarios using JMeter, monitored API response
   times, throughput, and error rates, and collaborated with development teams to
@@ -143,17 +153,17 @@ Contributed to the Manual Testing efforts for Viperium Trading, a web-based trad
   4) Collaborated with development teams to troubleshoot and resolve API performance issues<br />
   5) Maintained accurate documentation of test plans, cases, and processes
   <br />
-  <h3> 6. GaanaP (Game Application)▶️</h3> 
+  <h3> 7. GaanaP (Game Application)▶️</h3> 
   Contributed to the manual testing efforts for GaanaP, a game application dedicated to entertaining Bollywood music fans
   through unique song quiz games, blogs, and content based on Hindi film
   music.<br />
   <br />
-  <h3> 7. NewtonDesk (Android Application)📚</h3> Engaged in manual testing for
+  <h3> 8. NewtonDesk (Android Application)📚</h3> Engaged in manual testing for
   NewtonDesk, a global education platform (Edtech Startup) offering creative
   study notes for Science and engineering students. Ensured the quality of the
   Android application through meticulous testing and documentation.<br />
   <br />
-  <h3> 8. KingLudo (Game Web Application)🕹️</h3> 
+  <h3> 9. KingLudo (Game Web Application)🕹️</h3> 
   Engaged in manual testing for KingLudo, a real-money gaming product owned by Divya Private Limited. Ensured
   the quality and reliability of the game web application..
   <br />
