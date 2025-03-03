@@ -92,6 +92,7 @@ Contributed to the Manual Testing efforts for Viperium Trading, a web-based trad
   Recognized as <b>Employee of the Month </b> for contributions to testing and improving the Viperium project.
     <br />
    <h3> 2. Cupify – Matching App | Web & iOS Application | Octal IT Solution </h3> 
+  Tested a dating platform enabling users to register, match, and go on dates (1v1 or 2v2). Verified features like group creation, restaurant/bar reservations, event ticket purchases, and in-app item ordering. Ensured seamless QR-based entry and order validation for restaurants. Evaluated admin panel functionality for user, booking, and restaurant management.
   <h4>Responsibilities:</h4>
 1) Conducted functional, Smoke, Sanity, Regression, and UI testing to ensure a seamless user experience. <br />
 2) Designed and executed test cases for matchmaking algorithms, chat functionality, solo and dual date, restaurant, bar and event booking, grey box concepts, ticket purchasing, subscription etc. <br />
