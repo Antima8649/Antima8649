@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antima Tiwari</h1>
 <h3 align="center">
-  A seasoned software tester with 2.5+ years of proven expertise in manual
+  A seasoned software tester around 3 years of proven expertise in manual
   testing for Web and Mobile-based applications. I specialize in ensuring the
   quality and reliability of software through meticulous test case preparation,
   execution and issue reporting using various testing tools.
@@ -155,7 +155,18 @@ Participated in sprint planning meetings, provided input on test strategies, and
 closely with developers to resolve issues and ensure timely delivery of high-quality
 software
   <br />
-  <h3> 6. ToothFairy (Dental App)🧚| Dental Mobile Application| Ethereal Softech Pvt. Ltd.</h3> 
+  <h3> 6. Zoom |E-commerce Platform (Web & Mobile for Customers & Wholesalers)| Octal It Solution LLP </h3> 
+ Tested Zoom (https://www.zoomdrinksdelivery.com/), an online drinks delivery platform offering on-demand and scheduled services for alcoholic and non-alcoholic beverages. Verified product listings, order processing, delivery scheduling, re-order, bulk order and pricing accuracy. Ensured smooth user experience for both individual and business customers(wholesaler) in the Limassol & Marbella district. Admin & Sub-admin will manage all the product related things.
+  <br />
+  <h4>Responsibilities:</h4>
+  1) Created and maintained test cases, test plans, and execution reports.<br />
+  2) Performed smoke testing to verify critical functionalities before detailed testing. <br />
+  3) Conducted UI validation by comparing designs with Figma for consistency and accuracy. <br />
+  4) Verified dependencies with the admin panel to ensure proper system integration. <br />
+  5) Logged and tracked all issues on Mantis, collaborating with the team for timely resolution.
+  <br />
+  
+  <h3> 7. ToothFairy (Dental App)🧚| Dental Mobile Application| Ethereal Softech Pvt. Ltd.</h3> 
   Played a crucial role as a Load and Performance Tester for ToothFairy
 (https://play.google.com/store/apps/details?id=com.app.toothfairy&pli=1,
 https://apps.apple.com/gb/app/tooth-fairy/id1542598398 ) the UK's first dental video-calling app.
@@ -170,7 +181,7 @@ processes.<br />
   4) Collaborated with development teams to troubleshoot and resolve API performance issues<br />
   5) Maintained accurate documentation of test plans, cases, and processes
   <br />
-  <h3> 7. GaanaP (Game Application)▶️| Game Android Application| Ethereal Softech Pvt. Ltd.</h3> 
+  <h3> 8. GaanaP (Game Application)▶️| Game Android Application| Ethereal Softech Pvt. Ltd.</h3> 
 Contributed to the manual testing efforts for GaanaP
 (https://play.google.com/store/apps/details?id=com.gaanap), a game application dedicated to
 entertaining Bollywood music fans through unique song quiz games, blogs, and content based on
@@ -197,16 +208,16 @@ games, and suggested changes to improve them.<br />
 Shared ideas for making the games even better, based on what players wanted and what
 would make the games more enjoyable.
   <br />
-  <h3> 8. NewtonDesk (Android Application)📚</h3> Engaged in manual testing for
+  <h3> 9. NewtonDesk (Android Application)📚</h3> Engaged in manual testing for
   NewtonDesk, a global education platform (Edtech Startup) offering creative
   study notes for Science and engineering students. Ensured the quality of the
   Android application through meticulous testing and documentation.<br />
   <br />
-  <h3> 9. KingLudo (Game Web Application)🕹️</h3> 
+  <h3> 10. KingLudo (Game Web Application)🕹️</h3> 
   Engaged in manual testing for KingLudo, a real-money gaming product owned by Divya Private Limited. Ensured
   the quality and reliability of the game web application..
   <br />
-   <h3> 10. Switch (Fintech Application)🔄</h3> 
+   <h3> 11. Switch (Fintech Application)🔄</h3> 
   Contributed to the testing efforts for Switch, a collaborative platform enabling users to manage loans and distribute
   products among members. The application facilitates smooth communication and
   coordination, ensuring efficient loan processing and product distribution.
